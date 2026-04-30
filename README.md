@@ -38,7 +38,7 @@
 ![Laragon](https://img.shields.io/badge/Laragon-0E83CD?style=flat-square&logo=laragon&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache%20HTTP%20Server-D22128?style=flat-square&logo=apache&logoColor=white)
 
-### 🔹 Bases de Datos & Herramientas
+### 🔹 Databases & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-00618A?style=flat-square&logo=mysql&logoColor=white)
 ![SQL Server Management Studio](https://img.shields.io/badge/SQL%20Server%20Management%20Studio-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
